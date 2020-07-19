@@ -28,7 +28,7 @@ color: #d8b9c3;
 }
 
 .social ul{
-  margin-top: 30vh;
+  top: 25vh;
   position: absolute;
   z-index: 1;
 }
@@ -43,7 +43,7 @@ position: absolute;
   color: #d8b9c3;
 
   font-size:15px;
-  top:45vh;
+  top:25vh;
   
 }
 
